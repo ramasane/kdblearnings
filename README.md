@@ -1,0 +1,2 @@
+# kdblearnings
+Kdb learning repo
